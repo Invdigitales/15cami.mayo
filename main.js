@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3114.2014559866243!2d-62.345369299999994!3d-38.690216500000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbbd2a495cdad%3A0xe387e225924c9b7b!2sPampa%20Central%20%26%20Casilda%20Igarzabal%2C%20B8000%20Bah%C3%ADa%20Blanca%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1730909133930!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.1919236462727!2d-58.542846999999995!3d-34.574009999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb77001d191ed%3A0xa65526f0399f4c37!2sDon%20Quijote%20Recepciones%20-%20Sal%C3%B3n%20de%20eventos!5e0!3m2!1ses!2sar!4v1742215126364!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
